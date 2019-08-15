@@ -28,9 +28,9 @@
   </build>
 
   <scm>
-    <connection>scm:git@github.com:rodgerja/quickstart.git</connection>
-    <url>scm:git@github.com:rodgerja/quickstart.git</url>
-    <developerConnection>scm:git@github.com:rodgerja/quickstart.git</developerConnection>
+    <connection>scm:git:ssh://git@github.com:rodgerja/quickstart.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com:rodgerja/quickstart.git</developerConnection>
+    <url>https://github.com/rodgerja/quickstart.git</url>
   </scm>
 
   <!-- For deployment -->
