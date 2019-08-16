@@ -12,4 +12,8 @@ public class QuickStart {
   public long square(int n) {
     return n * n;
   }
+
+  public long doubler(int n) {
+    return n + n;
+  }
 }
